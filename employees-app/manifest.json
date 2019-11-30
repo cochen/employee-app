@@ -1,0 +1,9 @@
+{
+  "runtime": {
+      "majorVersion": "8"
+  },
+  "command": "java -jar employees-app-1.0-SNAPSHOT-jar-with-dependencies.jar",
+  "release": {
+    "version": "1.2.3"
+  }
+}
